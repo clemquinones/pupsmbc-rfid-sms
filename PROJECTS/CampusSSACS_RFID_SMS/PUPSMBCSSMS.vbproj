@@ -1,0 +1,1148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{64E28A02-3124-4B47-ADF2-BAF4A97DCE4D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CampusSSACS_RFID_SMS.My.MyApplication</StartupObject>
+    <RootNamespace>CampusSSACS_RFID_SMS</RootNamespace>
+    <AssemblyName>CampusSSACS_RFID_SMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>A417279AA8664C1D7D7E61E30E8FB85BDB2B3653</ManifestCertificateThumbprint>
+    <ManifestKeyFile>CampusSSACS_RFID_SMS_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>System.ICO</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>C:\Documents and Settings\Tjae Clemen\Desktop\Set Up\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>13</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CampusSSACS_RFID_SMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CampusSSACS_RFID_SMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ATSMS, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\DOWNLOADS\new\New Folder\phonesmsrecv_src\Demo\bin\Debug\ATSMS.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="GSMCommShared, Version=1.10.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication, Version=1.10.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\VB\PUPSMBC_RFID_SMS\CAMPUS_RFID_SMS\CAMPUS_RFID_SMS\bin\Debug\SMS\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.1.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PDUConverter, Version=1.10.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DATA\GSM COMMUNICATION\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="RS232, Version=1.24.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\FreeFiles\DOWNLOADS\VB\PUPSMBC_RFID_SMS\PUPSMBC_RFID_SMS\CAMPUS_RFID_SMS\CAMPUS_RFID_SMS\bin\Debug\SMS\RS232.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="bin\Debug\REPORTS\Departments.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Departments.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\REPORTS\FacultyUtility.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FacultyUtility.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\REPORTS\ParentList.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ParentList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\REPORTS\StudentList.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\REPORTS\SystemLogs.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SystemLogs.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\AdminPass.Designer.vb">
+      <DependentUpon>AdminPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\AdminPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\Notification.Designer.vb">
+      <DependentUpon>Notification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\Notification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\ReportDirectory.Designer.vb">
+      <DependentUpon>ReportDirectory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\ReportDirectory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\ReportDocumentViewer.Designer.vb">
+      <DependentUpon>ReportDocumentViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\ReportDocumentViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\BackupDB.Designer.vb">
+      <DependentUpon>BackupDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\BackupDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\FacultyUtilityEncode.Designer.vb">
+      <DependentUpon>FacultyUtilityEncode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\FacultyUtilityEncode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\FacultyUtility.Designer.vb">
+      <DependentUpon>FacultyUtility.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\FacultyUtility.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\LessOpacity.Designer.vb">
+      <DependentUpon>LessOpacity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\LessOpacity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\Preview.Designer.vb">
+      <DependentUpon>Preview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\Preview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\SearchStudent.Designer.vb">
+      <DependentUpon>SearchStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\SearchStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\EmptyDatabase.Designer.vb">
+      <DependentUpon>EmptyDatabase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\EmptyDatabase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\RecordsAchive.Designer.vb">
+      <DependentUpon>RecordsAchive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\RecordsAchive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\SystemLogs.Designer.vb">
+      <DependentUpon>SystemLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\SystemLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SystemDevelopers.Designer.vb">
+      <DependentUpon>SystemDevelopers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SystemDevelopers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\BrowseRecipients.Designer.vb">
+      <DependentUpon>BrowseRecipients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\BrowseRecipients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\BrowseSent.Designer.vb">
+      <DependentUpon>BrowseSent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\BrowseSent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\CreateMessage.Designer.vb">
+      <DependentUpon>CreateMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\CreateMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Parents.Designer.vb">
+      <DependentUpon>Parents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Parents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\ExpiredMessages.Designer.vb">
+      <DependentUpon>ExpiredMessages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\ExpiredMessages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\KeywordsSMS.Designer.vb">
+      <DependentUpon>KeywordsSMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\KeywordsSMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\QueuedMessage.Designer.vb">
+      <DependentUpon>QueuedMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\QueuedMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\SaveMessage.Designer.vb">
+      <DependentUpon>SaveMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\SaveMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\SenderPath.Designer.vb">
+      <DependentUpon>SenderPath.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\SenderPath.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\SentMessage.Designer.vb">
+      <DependentUpon>SentMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\SentMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\SMSInbox.Designer.vb">
+      <DependentUpon>SMSInbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\SMSInbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\DetectSMSDevice.Designer.vb">
+      <DependentUpon>DetectSMSDevice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\DetectSMSDevice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\StudViewDetail.Designer.vb">
+      <DependentUpon>StudViewDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\StudViewDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\Section.Designer.vb">
+      <DependentUpon>Section.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\Section.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\CreateAdmin.Designer.vb">
+      <DependentUpon>CreateAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\CreateAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\StudEncode.designer.vb">
+      <DependentUpon>StudEncode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\StudEncode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\IDFormat.Designer.vb">
+      <DependentUpon>IDFormat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\IDFormat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\AutoDetectGSM.Designer.vb">
+      <DependentUpon>AutoDetectGSM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\AutoDetectGSM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\GSMDeviceConfig.Designer.vb">
+      <DependentUpon>GSMDeviceConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\GSMDeviceConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Department.Designer.vb">
+      <DependentUpon>Department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\DeptAddEdit.Designer.vb">
+      <DependentUpon>DeptAddEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\DeptAddEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Announcement.Designer.vb">
+      <DependentUpon>Announcement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Announcement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\ClientPrivileges.Designer.vb">
+      <DependentUpon>ClientPrivileges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\ClientPrivileges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\AccessSettings.Designer.vb">
+      <DependentUpon>AccessSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\AccessSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\ConnectionSetup.Designer.vb">
+      <DependentUpon>ConnectionSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\ConnectionSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\LogIn.Designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAIN.Designer.vb">
+      <DependentUpon>MAIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\MsgBox.Designer.vb">
+      <DependentUpon>MsgBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\MsgBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\SearchCourseYrSec.Designer.vb">
+      <DependentUpon>SearchCourseYrSec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\SearchCourseYrSec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\SearchDateRange.Designer.vb">
+      <DependentUpon>SearchDateRange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\ACCESSORIES\SearchDateRange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\AnnRecentPost.Designer.vb">
+      <DependentUpon>AnnRecentPost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\AnnRecentPost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\DeptCustomize.Designer.vb">
+      <DependentUpon>DeptCustomize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\DeptCustomize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudLogRecord.Designer.vb">
+      <DependentUpon>StudLogRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudLogRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\Preferences.Designer.vb">
+      <DependentUpon>Preferences.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MAINTENANCE\Preferences.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudCount.Designer.vb">
+      <DependentUpon>StudCount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudCount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudList.Designer.vb">
+      <DependentUpon>StudList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\RunOnce.Designer.vb">
+      <DependentUpon>RunOnce.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\RunOnce.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\SearchResult.Designer.vb">
+      <DependentUpon>SearchResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCH\SearchResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SMS\SMSMessages.Designer.vb">
+      <DependentUpon>SMSMessages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\SMSMessages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODULES\modACR120U.vb" />
+    <Compile Include="FORMS\SMS\ReceiveMessage.Designer.vb">
+      <DependentUpon>ReceiveMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SMS\ReceiveMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODULES\modFunction.vb" />
+    <Compile Include="MODULES\modSMS.vb" />
+    <Compile Include="MODULES\modSub.vb" />
+    <Compile Include="MODULES\modVariables.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="bin\Debug\REPORTS\StudentLogRecords.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentLogRecords.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\REPORTS\Departments.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Departments.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\REPORTS\FacultyUtility.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FacultyUtility.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\REPORTS\ParentList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ParentList.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\REPORTS\StudentList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentList.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\REPORTS\SystemLogs.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SystemLogs.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\AdminPass.resx">
+      <DependentUpon>AdminPass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\Notification.resx">
+      <DependentUpon>Notification.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\ReportDirectory.resx">
+      <DependentUpon>ReportDirectory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\ReportDocumentViewer.resx">
+      <DependentUpon>ReportDocumentViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\BackupDB.resx">
+      <DependentUpon>BackupDB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\FacultyUtilityEncode.resx">
+      <DependentUpon>FacultyUtilityEncode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\FacultyUtility.resx">
+      <DependentUpon>FacultyUtility.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCH\LessOpacity.resx">
+      <DependentUpon>LessOpacity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCH\Preview.resx">
+      <DependentUpon>Preview.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCH\SearchStudent.resx">
+      <DependentUpon>SearchStudent.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\EmptyDatabase.resx">
+      <DependentUpon>EmptyDatabase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\RecordsAchive.resx">
+      <DependentUpon>RecordsAchive.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\SystemLogs.resx">
+      <DependentUpon>SystemLogs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\SystemDevelopers.resx">
+      <DependentUpon>SystemDevelopers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\BrowseRecipients.resx">
+      <DependentUpon>BrowseRecipients.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\BrowseSent.resx">
+      <DependentUpon>BrowseSent.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\CreateMessage.resx">
+      <DependentUpon>CreateMessage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\Parents.resx">
+      <DependentUpon>Parents.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\ExpiredMessages.resx">
+      <DependentUpon>ExpiredMessages.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\KeywordsSMS.resx">
+      <DependentUpon>KeywordsSMS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\QueuedMessage.resx">
+      <DependentUpon>QueuedMessage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\SaveMessage.resx">
+      <DependentUpon>SaveMessage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\SenderPath.resx">
+      <DependentUpon>SenderPath.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\SentMessage.resx">
+      <DependentUpon>SentMessage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\SMSInbox.resx">
+      <DependentUpon>SMSInbox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\DetectSMSDevice.resx">
+      <DependentUpon>DetectSMSDevice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\StudViewDetail.resx">
+      <DependentUpon>StudViewDetail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\Section.resx">
+      <DependentUpon>Section.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\CreateAdmin.resx">
+      <DependentUpon>CreateAdmin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\StudEncode.resx">
+      <DependentUpon>StudEncode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\IDFormat.resx">
+      <DependentUpon>IDFormat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\AutoDetectGSM.resx">
+      <DependentUpon>AutoDetectGSM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\GSMDeviceConfig.resx">
+      <DependentUpon>GSMDeviceConfig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\Department.resx">
+      <DependentUpon>Department.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\DeptAddEdit.resx">
+      <DependentUpon>DeptAddEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\Announcement.resx">
+      <DependentUpon>Announcement.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\ClientPrivileges.resx">
+      <DependentUpon>ClientPrivileges.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\AccessSettings.resx">
+      <DependentUpon>AccessSettings.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\ConnectionSetup.resx">
+      <DependentUpon>ConnectionSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAIN.resx">
+      <DependentUpon>MAIN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\MsgBox.resx">
+      <DependentUpon>MsgBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\ReceiveMessage.resx">
+      <DependentUpon>ReceiveMessage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\SearchCourseYrSec.resx">
+      <DependentUpon>SearchCourseYrSec.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\ACCESSORIES\SearchDateRange.resx">
+      <DependentUpon>SearchDateRange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\AnnRecentPost.resx">
+      <DependentUpon>AnnRecentPost.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\DeptCustomize.resx">
+      <DependentUpon>DeptCustomize.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\StudLogRecord.resx">
+      <DependentUpon>StudLogRecord.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MAINTENANCE\Preferences.resx">
+      <DependentUpon>Preferences.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\StudCount.resx">
+      <DependentUpon>StudCount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\StudList.resx">
+      <DependentUpon>StudList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\RunOnce.resx">
+      <DependentUpon>RunOnce.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCH\SearchResult.resx">
+      <DependentUpon>SearchResult.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SMS\SMSMessages.resx">
+      <DependentUpon>SMSMessages.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\REPORTS\StudentLogRecords.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentLogRecords.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\BGLigthBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Calendar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Delete.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Disconnect.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\HourGlassShutdown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\NextArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\No Picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\PreviousArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Time.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Unlock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\UserLogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Loading\Load.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\MB\Critical.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\MB\Exclamation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\MB\Information.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\MB\Question.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\check.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\NotRegistered.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bSearch.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bClose.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bCloseHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bLogOut.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bLogOutHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bOption.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bOptionHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\ClientButtons\bSearchHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\StandBy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Keys.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Guard.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Announce.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Students.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Logout.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\NotConnected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\SMS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\Announce.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\Guard.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\Tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\HourGlassShutdown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\TimeShutdown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\Logout.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\Log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Icon Buttons\Department.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Department.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\LigthBlueBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\NoPicture_Click.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Profile.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Security.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientBG3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AccessSetting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudCount.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudLogRecord.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Client.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\PC_Offline.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\PC_Online.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchDateRange.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchCourseYrSec.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Department.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudLogRecord1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchDateRange1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddDepart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Announcement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Encode.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Encode1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudCount1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\MB\Exclamation1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Stud.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple load.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\app.config" />
+    <None Include="bin\Debug\FILES\Apple_Loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_alpha_Users_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\System.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\SystemGIF.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Option.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\Binocular_Icon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\PadLock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FILES\refresh.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bin\Debug\FILES\Log.png" />
+    <None Include="bin\Debug\FILES\computer.gif" />
+    <None Include="bin\Debug\FILES\searchicon.gif" />
+    <None Include="bin\Debug\FILES\encodestudent.gif" />
+    <None Include="bin\Debug\FILES\Dept.gif" />
+    <None Include="bin\Debug\FILES\AddDept.gif" />
+    <None Include="bin\Debug\FILES\Splash.gif" />
+    <None Include="bin\Debug\FILES\SMS.gif" />
+    <None Include="bin\Debug\FILES\save.bmp" />
+    <None Include="bin\Debug\FILES\Gear.gif" />
+    <None Include="bin\Debug\FILES\Gear_Icon.gif" />
+    <None Include="bin\Debug\FILES\Dept_Icon.gif" />
+    <None Include="bin\Debug\FILES\Log_Icon.png" />
+    <None Include="bin\Debug\FILES\Computer_Icon.gif" />
+    <None Include="bin\Debug\FILES\Bin.png" />
+    <None Include="bin\Debug\FILES\Database.gif" />
+    <None Include="bin\Debug\FILES\warn.gif" />
+    <None Include="My Project\app.manifest" />
+    <None Include="bin\Debug\FILES\BackupDB.gif" />
+    <None Include="bin\Debug\FILES\RestoreDB.gif" />
+    <None Include="Resources\PUP.gif" />
+    <None Include="bin\Debug\FILES\Picasa.jpg" />
+    <None Include="bin\Debug\FILES\TextMessage.gif" />
+    <None Include="bin\Debug\FILES\AdminSettings.GIF" />
+    <None Include="bin\Debug\FILES\WAV\Accepted.wav" />
+    <None Include="Resources\turnoff.png" />
+    <None Include="Resources\turnon.png" />
+    <None Include="bin\Debug\FILES\Submit.jpg" />
+    <None Include="Resources\Button.bmp" />
+    <None Include="Resources\ig_Buttons_hover.jpg" />
+    <None Include="bin\Debug\FILES\Report.png" />
+    <None Include="bin\Debug\FILES\Login_Bluebutton.jpg" />
+    <None Include="bin\Debug\FILES\Splash.jpg" />
+    <Content Include="System.ICO" />
+    <None Include="Resources\edit.bmp" />
+    <None Include="Resources\Plane %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\FORMS\MAINTENANCE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

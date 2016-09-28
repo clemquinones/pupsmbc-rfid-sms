@@ -1,0 +1,44 @@
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\sampleReceive.Form1.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\sampleReceive.Resources.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\sampleReceive.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\sampleReceive.exe
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\sampleReceive.pdb
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\sampleReceive.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\GSMCommunication.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\PDUConverter.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\RS232.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\bin\Debug\GSMCommShared.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\sampleReceive.exe
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\sampleReceive.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\sampleReceive\sampleReceive\obj\Debug\sampleReceive.pdb
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\sampleReceive.exe
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\sampleReceive.xml
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\sampleReceive.pdb
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\sampleReceive.exe
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\sampleReceive.pdb
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\sampleReceive.xml
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\GSMCommunication.dll
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\PDUConverter.dll
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\RS232.dll
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\bin\Debug\GSMCommShared.dll
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\ResolveAssemblyReference.cache
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\sampleReceive.Resources.resources
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\sampleReceive.vbproj.GenerateResource.Cache
+D:\backup_PUPSSACSRFIDSMS\RESEARCH\sampleReceive\sampleReceive\obj\Debug\sampleReceive.frmSMSSender.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\sampleReceive.exe.config
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\sampleReceive.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\sampleReceive.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\sampleReceive.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\GSMCommunication.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\PDUConverter.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\RS232.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\bin\Debug\GSMCommShared.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\ResolveAssemblyReference.cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.frmConnectionSetup.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.frmSMSSender.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.Resources.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.vbproj.GenerateResource.Cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\sampleReceive\sampleReceive\obj\Debug\sampleReceive.exe

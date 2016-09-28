@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ACR120TxDataTeleramSample - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/ACR120TxDataTeleramSample.res" /d "_DEBUG" /d "_AFXDLL" "F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120TxDataTeleram Sample\ACR120TxDataTeleramSample.rc"" 
+Creating temporary file "D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP269.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/ACR120TxDataTeleramSample.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120TxDataTeleram Sample\ACR120TxDataTeleramSample.cpp"
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120TxDataTeleram Sample\ACR120TxDataTeleramSampleDlg.cpp"
+]
+Creating command line "cl.exe @D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP269.tmp" 
+Creating temporary file "D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP26A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/ACR120TxDataTeleramSample.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120TxDataTeleram Sample\StdAfx.cpp"
+]
+Creating command line "cl.exe @D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP26A.tmp" 
+Creating temporary file "D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP26B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ACR120TxDataTeleramSample.pdb" /debug /machine:I386 /out:"Debug/ACR120TxDataTeleramSample.exe" /pdbtype:sept 
+".\Debug\ACR120TxDataTeleramSample.obj"
+".\Debug\ACR120TxDataTeleramSampleDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\ACR120TxDataTeleramSample.res"
+".\ACR120U.lib"
+]
+Creating command line "link.exe @D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP26B.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ACR120TxDataTeleramSample.cpp
+ACR120TxDataTeleramSampleDlg.cpp
+Generating Code...
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/ACR120TxDataTeleramSample.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\ACR120TxDataTeleramSample.sbr" ".\Debug\ACR120TxDataTeleramSampleDlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+ACR120TxDataTeleramSample.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

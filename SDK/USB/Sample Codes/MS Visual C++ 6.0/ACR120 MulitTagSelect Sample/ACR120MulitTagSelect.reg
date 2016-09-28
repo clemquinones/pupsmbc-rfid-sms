@@ -1,0 +1,13 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\ACR120MulitTagSelect.Application = ACR120MulitTagSelect Application
+HKEY_CLASSES_ROOT\ACR120MulitTagSelect.Application\CLSID = {2C424CFA-F18D-43C1-BD15-08917180F6AC}
+
+HKEY_CLASSES_ROOT\CLSID\{2C424CFA-F18D-43C1-BD15-08917180F6AC} = ACR120MulitTagSelect Application
+HKEY_CLASSES_ROOT\CLSID\{2C424CFA-F18D-43C1-BD15-08917180F6AC}\ProgId = ACR120MulitTagSelect.Application
+HKEY_CLASSES_ROOT\CLSID\{2C424CFA-F18D-43C1-BD15-08917180F6AC}\LocalServer32 = ACR120MULITTAGSELECT.EXE

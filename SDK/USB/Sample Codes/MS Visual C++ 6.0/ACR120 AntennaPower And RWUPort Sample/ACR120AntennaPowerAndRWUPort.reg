@@ -1,0 +1,13 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\ACR120AntennaPowerAndRWUPort.Application = ACR120AntennaPowerAndRWUPort Application
+HKEY_CLASSES_ROOT\ACR120AntennaPowerAndRWUPort.Application\CLSID = {9BAF8CFE-095D-4779-BEFD-D690F983D0ED}
+
+HKEY_CLASSES_ROOT\CLSID\{9BAF8CFE-095D-4779-BEFD-D690F983D0ED} = ACR120AntennaPowerAndRWUPort Application
+HKEY_CLASSES_ROOT\CLSID\{9BAF8CFE-095D-4779-BEFD-D690F983D0ED}\ProgId = ACR120AntennaPowerAndRWUPort.Application
+HKEY_CLASSES_ROOT\CLSID\{9BAF8CFE-095D-4779-BEFD-D690F983D0ED}\LocalServer32 = ACR120ANTENNAPOWERANDRWUPORT.EXE

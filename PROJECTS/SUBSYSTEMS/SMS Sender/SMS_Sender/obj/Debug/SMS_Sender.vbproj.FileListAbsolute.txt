@@ -1,0 +1,32 @@
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.exe.config
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.exe
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.pdb
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.xml
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\GSMCommunication.dll
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\PDUConverter.dll
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\GSMCommShared.dll
+D:\DOWNLOADS\SMS Sender\SMS_Sender\bin\Debug\RS232.dll
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\ResolveAssemblyReference.cache
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.frmSend.resources
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.Resources.resources
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.vbproj.GenerateResource.Cache
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.exe
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.xml
+D:\DOWNLOADS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.exe.config
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\GSMCommShared.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\RS232.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\ResolveAssemblyReference.cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.frmSend.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.Resources.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.vbproj.GenerateResource.Cache
+D:\VB\SYSTEMs REFERENCE\PUPSMBC RFID SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\bin\Debug\SMS_Sender.exe.config
+D:\VB\SYSTEMs REFERENCE\PUPSMBC RFID SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.exe
+D:\VB\SYSTEMs REFERENCE\PUPSMBC RFID SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.xml
+D:\VB\SYSTEMs REFERENCE\PUPSMBC RFID SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMS Sender\SMS_Sender\obj\Debug\SMS_Sender.pdb

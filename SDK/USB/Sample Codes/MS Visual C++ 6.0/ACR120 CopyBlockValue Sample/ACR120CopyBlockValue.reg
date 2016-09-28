@@ -1,0 +1,13 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\ACR120CopyBlockValue.Application = ACR120CopyBlockValue Application
+HKEY_CLASSES_ROOT\ACR120CopyBlockValue.Application\CLSID = {8764B166-E145-4660-843E-D85E43DF4927}
+
+HKEY_CLASSES_ROOT\CLSID\{8764B166-E145-4660-843E-D85E43DF4927} = ACR120CopyBlockValue Application
+HKEY_CLASSES_ROOT\CLSID\{8764B166-E145-4660-843E-D85E43DF4927}\ProgId = ACR120CopyBlockValue.Application
+HKEY_CLASSES_ROOT\CLSID\{8764B166-E145-4660-843E-D85E43DF4927}\LocalServer32 = ACR120COPYBLOCKVALUE.EXE

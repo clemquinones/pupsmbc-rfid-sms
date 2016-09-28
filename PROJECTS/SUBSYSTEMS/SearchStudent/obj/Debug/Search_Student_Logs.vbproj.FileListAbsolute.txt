@@ -1,0 +1,68 @@
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.application
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.pdb
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.xml
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmLessOpacity.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmPicasa.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmSearch.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmMB.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.Resources.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\Search_Student_Logs.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.application
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.xml
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.pdb
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.xml
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.pdb
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.application
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.pdb
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.xml
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\ResolveAssemblyReference.cache
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmLessOpacity.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmPicasa.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmSearch.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmMB.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.Resources.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\Search_Student_Logs.vbproj.GenerateResource.Cache
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.application
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.application
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\ResolveAssemblyReference.cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmLessOpacity.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmPicasa.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmSearch.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmMB.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.Resources.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\Search_Student_Logs.vbproj.GenerateResource.Cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.application
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.xml
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.pdb
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.application
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.exe
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.pdb
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\bin\Debug\[SubSystem] SearchStudentLogs.xml
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmLessOpacity.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmPicasa.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmSearch.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.frmMB.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\_SubSystem__SearchStudentLogs.Resources.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\Search_Student_Logs.vbproj.GenerateResource.Cache
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.exe.manifest
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\SUBSYSTEMS\[SubSystem] SearchStudentLogs\[SubSystem] SearchStudentLogs\obj\Debug\[SubSystem] SearchStudentLogs.application

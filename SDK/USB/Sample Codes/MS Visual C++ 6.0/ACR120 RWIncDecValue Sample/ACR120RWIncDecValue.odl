@@ -1,0 +1,42 @@
+// ACR120RWIncDecValue.odl : type library source for ACR120RWIncDecValue.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ACR120RWIncDecValue.tlb).
+
+[ uuid(A32F9A3B-F0C7-467E-B5EB-A56F2BA4262D), version(1.0) ]
+library ACR120RWIncDecValue
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CACR120RWIncDecValueDoc
+	
+	[ uuid(A3437C05-42D5-4C7C-B96E-5F98F3EA9273) ]
+	dispinterface IACR120RWIncDecValue
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CACR120RWIncDecValueDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CACR120RWIncDecValueDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CACR120RWIncDecValueDoc
+	
+	[ uuid(07212208-6748-42E5-9C36-0B13B0161848) ]
+	coclass ACR120RWIncDecValue
+	{
+		[default] dispinterface IACR120RWIncDecValue;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

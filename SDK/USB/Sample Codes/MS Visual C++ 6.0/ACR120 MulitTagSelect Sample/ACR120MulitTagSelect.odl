@@ -1,0 +1,42 @@
+// ACR120MulitTagSelect.odl : type library source for ACR120MulitTagSelect.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ACR120MulitTagSelect.tlb).
+
+[ uuid(C14D0F60-5774-4079-8BB9-36B05F8622E8), version(1.0) ]
+library ACR120MulitTagSelect
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CACR120MulitTagSelectDoc
+	
+	[ uuid(A560074E-BC0E-45F0-8604-4F24C18C1E29) ]
+	dispinterface IACR120MulitTagSelect
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CACR120MulitTagSelectDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CACR120MulitTagSelectDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CACR120MulitTagSelectDoc
+	
+	[ uuid(2C424CFA-F18D-43C1-BD15-08917180F6AC) ]
+	coclass ACR120MulitTagSelect
+	{
+		[default] dispinterface IACR120MulitTagSelect;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

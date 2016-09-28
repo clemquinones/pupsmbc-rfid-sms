@@ -1,0 +1,42 @@
+// ACR120AntennaPowerAndRWUPort.odl : type library source for ACR120AntennaPowerAndRWUPort.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ACR120AntennaPowerAndRWUPort.tlb).
+
+[ uuid(D48DF963-94A5-4D53-BA8D-EADF2D9409C2), version(1.0) ]
+library ACR120AntennaPowerAndRWUPort
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CACR120AntennaPowerAndRWUPortDoc
+	
+	[ uuid(3D950F93-D0D4-4BC2-9B42-1963787D0B71) ]
+	dispinterface IACR120AntennaPowerAndRWUPort
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CACR120AntennaPowerAndRWUPortDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CACR120AntennaPowerAndRWUPortDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CACR120AntennaPowerAndRWUPortDoc
+	
+	[ uuid(9BAF8CFE-095D-4779-BEFD-D690F983D0ED) ]
+	coclass ACR120AntennaPowerAndRWUPort
+	{
+		[default] dispinterface IACR120AntennaPowerAndRWUPort;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

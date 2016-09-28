@@ -1,0 +1,69 @@
+; Installation inf for Advanced Card Systems USB Smart Card Readers
+;
+; (c) Copyright 2003 Advanced Card Systems
+;
+
+[Version]
+DriverVer=02/16/2001
+Signature="$CHICAGO$"
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%ACS%
+
+[SourceDisksNames]
+1="ACR38 USB Smart Card Reader Installation Disk",,,
+
+[SourceDisksFiles]
+acr38usb.sys = 1
+
+[Manufacturer]
+%MfgName%=ACRUSB
+
+[ACRUSB]
+%ACRUSB.DeviceDesc%=ACRUSB.Dev, USB\VID_072F&PID_9000
+
+;[PreCopySection]
+;HKR,,NoSetupUI,,1
+
+[DestinationDirs]
+ACRUSB.Files.Ext = 11
+ACRUSB.Files.Ext.NT = 12
+
+[ACRUSB.Dev]
+;CopyFiles=ACRUSB.Files.Ext
+AddReg=ACRUSB.AddReg
+
+[ACRUSB.Dev.NT]
+;CopyFiles=ACRUSB.Files.Ext.NT
+AddReg=ACRUSB.AddReg
+
+[ACRUSB.Dev.NT.Services]
+Addservice = ACR38USB, 0x00000002, ACRUSB.AddService
+
+[ACRUSB.AddService]
+DisplayName    = %ACRUSB.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\acr38usb.sys
+LoadOrderGroup = Base
+
+[ACRUSB.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,acr38usb.sys
+
+
+[ACRUSB.Files.Ext]
+acr38usb.sys
+
+[ACRUSB.Files.Ext.NT]
+acr38usb.sys
+
+
+;------------------------------STRINGS---------------------------------;
+[Strings]
+ACS="ACS"
+MfgName="ACS"
+ACRUSB.DeviceDesc="ACR38 USB Smart Card Reader (Proprietary Mode)"
+ACRUSB.SvcDesc="ACR38 USB Smart Card Reader Driver (Proprietary Mode)"
+

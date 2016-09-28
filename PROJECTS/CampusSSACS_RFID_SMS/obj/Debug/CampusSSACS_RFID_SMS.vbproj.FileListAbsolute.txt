@@ -1,0 +1,459 @@
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVerificationIdentity.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\GSMCommShared.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\GSMCommunication.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\RS232.dll
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\Visual Studio 2008\Projects\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.dll
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVerificationIdentity.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLessOpacityBG.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreviewStud.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmOptions.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchStudentLog.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudLogDetails.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Settings.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\backup_PUPSSACSRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.dll
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLessOpacityBG.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreviewStud.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmOptions.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchStudentLog.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudLogDetails.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccount.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSettings.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccount.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVerificationIdentity.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLessOpacityBG.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreviewStud.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmOptions.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchStudentLog.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudLogDetails.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSettings.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\Users\patrick\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+C:\Documents and Settings\Tjae Clemen\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccount.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLessOpacityBG.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreviewStud.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmOptions.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchStudentLog.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudLogDetails.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSettings.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+D:\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecentPost.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.dll
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccount.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmOptions.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecentPost.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSettings.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccount.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSM_Module_Setting.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSchedule.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmOptions.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecentPost.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSend.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSettings.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+C:\Documents and Settings\rowell\Desktop\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+C:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentsList.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.config
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.dll
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAdminPass.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBrowseRecipients.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBrowseSent.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmCreateMessage.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmListParents.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmKeywordsSMS.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSaveMessage.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmInbox.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDetectSMSDevice.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.SplashScreen.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentProfile.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccount.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAddSection.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAddUser.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmCreateAdmin.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmIDFormatChanger.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDetectPorts.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVeriication.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecentPost.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreferences.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentsList.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmFirstTimeRunOnce.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLVResult.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+D:\with ERROR PUPSMBCRFIDSMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSentMessage.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.config
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\ATSMS.xml
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAdminPass.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecordsAchive.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSystemLogs.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBrowseRecipients.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBrowseSent.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmCreateMessage.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmListParents.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmKeywordsSMS.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSaveMessage.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSentMessage.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmInbox.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDetectSMSDevice.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.SplashScreen.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentProfile.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAddSection.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmCreateAdmin.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmIDFormatChanger.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDetectPorts.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVeriication.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecentPost.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreferences.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentsList.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmFirstTimeRunOnce.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmResult.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+D:\PUPSSACSRFIDSMS\RFID_SMS\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.EditStudentInfo.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.config
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.application
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\CampusSSACS_RFID_SMS.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\bin\Debug\PDUConverter.dll
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAdminPass.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmNotification.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVReport.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmChat.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEmptyDatabase.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecordsAchive.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSystemLogs.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMainTemp.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBrowseRecipients.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBrowseSent.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmCreateMessage.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmListParents.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmKeywordsSMS.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmQueuedMessage.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSaveMessage.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSentMessage.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmInbox.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDetectSMSDevice.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSplashScreen.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentProfile.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAddSection.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmCreateAdmin.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmEncodeStudInfo.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmIDFormatChanger.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDetectPorts.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGSMDeviceConfig.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDepartment.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptAddEdit.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAnnouncement.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmGuardSettings.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmAccessSettings.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmClient.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmConnectionSetup.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmLogIn.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMAIN.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmMB.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmVeriication.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmReceiveMessage.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchCourseYrSec.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmSearchDateRange.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmRecentPost.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmDeptSendCustomize.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentLogRecord.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmPreferences.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentCounts.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmStudentsList.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmFirstTimeRunOnce.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmResult.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.Resources.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.vbproj.GenerateResource.Cache
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe.manifest
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.application
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.pdb
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmFacultyUtility.resources
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\obj\Debug\CampusSSACS_RFID_SMS.frmBackupRestoreDB.resources

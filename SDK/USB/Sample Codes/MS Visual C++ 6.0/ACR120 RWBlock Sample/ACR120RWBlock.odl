@@ -1,0 +1,42 @@
+// ACR120RWBlock.odl : type library source for ACR120RWBlock.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ACR120RWBlock.tlb).
+
+[ uuid(59C7C211-F4E8-4B08-9EDC-ECB46FD74523), version(1.0) ]
+library ACR120RWBlock
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CACR120RWBlockDoc
+	
+	[ uuid(83CB2D8E-2528-429A-B950-C2366BBFEA3E) ]
+	dispinterface IACR120RWBlock
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CACR120RWBlockDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CACR120RWBlockDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CACR120RWBlockDoc
+	
+	[ uuid(5EBD899F-3A02-4F28-AD6B-25FDC6649FE6) ]
+	coclass ACR120RWBlock
+	{
+		[default] dispinterface IACR120RWBlock;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

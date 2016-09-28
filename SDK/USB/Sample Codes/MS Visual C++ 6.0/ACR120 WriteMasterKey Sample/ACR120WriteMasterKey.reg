@@ -1,0 +1,13 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\ACR120WriteMasterKey.Application = ACR120WriteMasterKey Application
+HKEY_CLASSES_ROOT\ACR120WriteMasterKey.Application\CLSID = {F71B35DB-1712-4333-81E3-8158F5046F3C}
+
+HKEY_CLASSES_ROOT\CLSID\{F71B35DB-1712-4333-81E3-8158F5046F3C} = ACR120WriteMasterKey Application
+HKEY_CLASSES_ROOT\CLSID\{F71B35DB-1712-4333-81E3-8158F5046F3C}\ProgId = ACR120WriteMasterKey.Application
+HKEY_CLASSES_ROOT\CLSID\{F71B35DB-1712-4333-81E3-8158F5046F3C}\LocalServer32 = ACR120WRITEMASTERKEY.EXE

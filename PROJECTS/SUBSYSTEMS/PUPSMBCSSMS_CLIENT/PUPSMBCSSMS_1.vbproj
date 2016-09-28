@@ -1,0 +1,410 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <MyType>WindowsForms</MyType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0E8EF295-5F65-439B-A27A-1041BF0371FB}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyName>PUPSMBCSSMS_CLIENT</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PUPSMBCSSMS_CLIENT.My.MyApplication</StartupObject>
+    <AssemblyMajorVersion>1</AssemblyMajorVersion>
+    <AssemblyMinorVersion>0</AssemblyMinorVersion>
+    <AssemblyRevisionNumber>0</AssemblyRevisionNumber>
+    <GenerateRevisionNumber>False</GenerateRevisionNumber>
+    <RootNamespace>PUPSMBCSSMS_CLIENT</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <ApplicationIcon>pup.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>EA8702963584D42EAB8140B4746AA20353B23BF2</ManifestCertificateThumbprint>
+    <ManifestKeyFile>PUPSMBCSSMS_1_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>PUPSMBCSSMS_CLIENT.xml</DocumentationFile>
+    <DebugSymbols>True</DebugSymbols>
+    <DefineDebug>True</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>PUPSMBCSSMS_CLIENT.xml</DocumentationFile>
+    <DebugSymbols>False</DebugSymbols>
+    <DefineDebug>False</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.Compatibility">
+      <Name>Microsoft.VisualBasic.Compatibility</Name>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.1.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb" />
+    <Compile Include="FORMS\OPERATION\UserPass.Designer.vb">
+      <DependentUpon>UserPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\UserPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Client.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>Client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Chat.Designer.vb">
+      <DependentUpon>Chat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Chat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\SearchResult.Designer.vb">
+      <DependentUpon>SearchResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\SearchResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudentList.Designer.vb">
+      <DependentUpon>StudentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudentProfile.Designer.vb">
+      <DependentUpon>StudentProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\StudentProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Verification.Designer.vb">
+      <DependentUpon>Verification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\OPERATION\Verification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCHSTUDENTLOGS\LessOpacity.Designer.vb">
+      <DependentUpon>LessOpacity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCHSTUDENTLOGS\LessOpacity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCHSTUDENTLOGS\Preview.Designer.vb">
+      <DependentUpon>Preview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCHSTUDENTLOGS\Preview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SEARCHSTUDENTLOGS\SearchStudent.Designer.vb">
+      <DependentUpon>SearchStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SEARCHSTUDENTLOGS\SearchStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\ConnectionSetup.Designer.vb">
+      <DependentUpon>ConnectionSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\ConnectionSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\LogIn.Designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\MsgBox.Designer.vb">
+      <DependentUpon>MsgBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\MsgBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SelectPC.Designer.vb">
+      <DependentUpon>SelectPC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SelectPC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SETTINGS\SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODULES\modFunction.vb" />
+    <Compile Include="MODULES\modSub.vb" />
+    <Compile Include="MODULES\modVariables.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FORMS\OPERATION\UserPass.resx">
+      <DependentUpon>UserPass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\Client.resX">
+      <DependentUpon>Client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\Chat.resx">
+      <DependentUpon>Chat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\SearchResult.resx">
+      <DependentUpon>SearchResult.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\StudentList.resx">
+      <DependentUpon>StudentList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\StudentProfile.resx">
+      <DependentUpon>StudentProfile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\OPERATION\Verification.resx">
+      <DependentUpon>Verification.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCHSTUDENTLOGS\LessOpacity.resx">
+      <DependentUpon>LessOpacity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCHSTUDENTLOGS\Preview.resx">
+      <DependentUpon>Preview.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SEARCHSTUDENTLOGS\SearchStudent.resx">
+      <DependentUpon>SearchStudent.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\ConnectionSetup.resx">
+      <DependentUpon>ConnectionSetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\MsgBox.resx">
+      <DependentUpon>MsgBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\SelectPC.resx">
+      <DependentUpon>SelectPC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SETTINGS\SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apple_Loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appleload.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Binocular.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bLogOut.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bLogOutHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bOption.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bOptionHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bSearch.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bSearchHO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Client.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConnSetup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Critical.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Disconnect.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HourGlassShutdown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogIn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\No Picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotConnected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotRegistered.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PadLock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PreviousArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StandBy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Verify.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="PUPSMBCSSMS_1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pup.ico" />
+    <None Include="Resources\Splash.jpg" />
+    <None Include="Resources\Keys.gif" />
+    <None Include="Resources\searchIcon.gif" />
+    <None Include="Resources\picasa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

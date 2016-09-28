@@ -1,0 +1,42 @@
+// ACR120WriteMasterKey.odl : type library source for ACR120WriteMasterKey.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ACR120WriteMasterKey.tlb).
+
+[ uuid(81F282D1-8482-475E-A745-4C4CA78BFEC6), version(1.0) ]
+library ACR120WriteMasterKey
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CACR120WriteMasterKeyDoc
+	
+	[ uuid(03241AC9-2C56-4058-B808-66393C407536) ]
+	dispinterface IACR120WriteMasterKey
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CACR120WriteMasterKeyDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CACR120WriteMasterKeyDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CACR120WriteMasterKeyDoc
+	
+	[ uuid(F71B35DB-1712-4333-81E3-8158F5046F3C) ]
+	coclass ACR120WriteMasterKey
+	{
+		[default] dispinterface IACR120WriteMasterKey;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

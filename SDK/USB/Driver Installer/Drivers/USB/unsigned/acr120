@@ -1,0 +1,69 @@
+; Installation inf for Advanced Card Systems ACR120
+;
+; (c) Copyright 2005 Advanced Card Systems
+;
+
+[Version]
+DriverVer=06/21/2005
+Signature="$CHICAGO$"
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%ACS%
+
+[SourceDisksNames]
+1="ACR120 USB Installation Disk",,,
+
+[SourceDisksFiles]
+ACR120.sys = 1
+
+[Manufacturer]
+%MfgName%=ACR120
+
+[ACR120]
+%ACR120.DeviceDesc%=ACR120.Dev, USB\VID_072F&PID_8003
+
+;[PreCopySection]
+;HKR,,NoSetupUI,,1
+
+[DestinationDirs]
+ACR120.Files.Ext = 11
+ACR120.Files.Ext.NT = 12
+
+[ACR120.Dev]
+;CopyFiles=ACR120.Files.Ext
+AddReg=ACR120.AddReg
+
+[ACR120.Dev.NT]
+;CopyFiles=ACR120.Files.Ext.NT
+AddReg=ACR120.AddReg
+
+[ACR120.Dev.NT.Services]
+Addservice = ACR120, 0x00000002, ACR120.AddService
+
+[ACR120.AddService]
+DisplayName    = %ACR120.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\ACR120.sys
+LoadOrderGroup = Base
+
+[ACR120.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,ACR120.sys
+
+
+[ACR120.Files.Ext]
+ACR120.sys
+
+[ACR120.Files.Ext.NT]
+ACR120.sys
+
+
+;------------------------------STRINGS---------------------------------;
+[Strings]
+ACS="ACS"
+MfgName="ACS"
+ACR120.DeviceDesc="ACR120 USB (Proprietary Mode)"
+ACR120.SvcDesc="ACR120 USB Driver (Proprietary Mode)"
+

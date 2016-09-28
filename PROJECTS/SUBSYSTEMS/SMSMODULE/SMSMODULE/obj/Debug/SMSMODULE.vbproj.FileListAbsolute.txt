@@ -1,0 +1,15 @@
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\bin\Debug\SMSMODULE.exe
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\bin\Debug\SMSMODULE.pdb
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\bin\Debug\SMSMODULE.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.frmSender.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.Resources.resources
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.exe
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.xml
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.pdb
+C:\Documents and Settings\Tjae Clemen\My Documents\SMSMODULE\SMSMODULE\bin\Debug\SMSMODULE.exe.config
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMSMODULE\SMSMODULE\bin\Debug\SMSMODULE.exe.config
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.exe
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.xml
+D:\PUPSSACSRFIDSMS\CampusSSACS_RFID_SMS\SUBSYSTEMS\SMSMODULE\SMSMODULE\obj\Debug\SMSMODULE.pdb

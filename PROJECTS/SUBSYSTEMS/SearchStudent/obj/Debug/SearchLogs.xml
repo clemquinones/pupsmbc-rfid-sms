@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SearchLogs
+</name>
+</assembly>
+<members>
+<member name="P:SearchStudentLogs.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SearchStudentLogs.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SearchStudentLogs.My.Resources.Resources.ConnSetup">
+	<summary>
+  Looks up a localized string similar to server=localhost;
+userid=root;
+password=;
+database=db_campus;.
+</summary>
+</member><member name="T:SearchStudentLogs.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

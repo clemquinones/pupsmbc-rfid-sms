@@ -1,0 +1,64 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ACR120RWBlock - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "midl.exe /nologo /D "_DEBUG" /tlb "Debug/ACR120RWBlock.tlb" /mktyplib203 /win32 "F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\ACR120RWBlock.odl""
+Creating command line "rc.exe /l 0x409 /fo"Debug/ACR120RWBlock.res" /i "Debug" /d "_DEBUG" /d "_AFXDLL" "F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\ACR120RWBlock.rc"" 
+Creating temporary file "D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP209.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/ACR120RWBlock.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\ACR120RWBlock.cpp"
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\ACR120RWBlockDlg.cpp"
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\DlgProxy.cpp"
+]
+Creating command line "cl.exe @D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP209.tmp" 
+Creating temporary file "D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP20A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/ACR120RWBlock.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\StdAfx.cpp"
+]
+Creating command line "cl.exe @D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP20A.tmp" 
+Creating temporary file "D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP20B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ACR120RWBlock.pdb" /debug /machine:I386 /out:"Debug/ACR120RWBlock.exe" /pdbtype:sept 
+".\Debug\ACR120RWBlock.obj"
+".\Debug\ACR120RWBlockDlg.obj"
+".\Debug\DlgProxy.obj"
+".\Debug\StdAfx.obj"
+".\Debug\ACR120RWBlock.res"
+".\ACR120U.lib"
+]
+Creating command line "link.exe @D:\DOCUME~1\cali143\LOCALS~1\Temp\RSP20B.tmp"
+<h3>Output Window</h3>
+Creating Type Library...
+Processing F:\ACR120 Stuff\Sample Codes\Visual C++\ACR120RWBlock Sample\ACR120RWBlock.odl
+ACR120RWBlock.odl
+Processing D:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\oaidl.idl
+oaidl.idl
+Processing D:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\objidl.idl
+objidl.idl
+Processing D:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\unknwn.idl
+unknwn.idl
+Processing D:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\wtypes.idl
+wtypes.idl
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ACR120RWBlock.cpp
+ACR120RWBlockDlg.cpp
+DlgProxy.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+ACR120RWBlock.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

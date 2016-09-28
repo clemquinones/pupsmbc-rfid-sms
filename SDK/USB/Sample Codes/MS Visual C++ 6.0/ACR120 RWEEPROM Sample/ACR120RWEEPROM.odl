@@ -1,0 +1,42 @@
+// ACR120RWEEPROM.odl : type library source for ACR120RWEEPROM.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ACR120RWEEPROM.tlb).
+
+[ uuid(1B74DE77-D03C-43C2-8320-DECE3E12EA28), version(1.0) ]
+library ACR120RWEEPROM
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CACR120RWEEPROMDoc
+	
+	[ uuid(604EAFCD-F021-4D27-AB80-7D51DDF90344) ]
+	dispinterface IACR120RWEEPROM
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CACR120RWEEPROMDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CACR120RWEEPROMDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CACR120RWEEPROMDoc
+	
+	[ uuid(A11333C2-7AE8-4812-9B54-5DBE6EE551D5) ]
+	coclass ACR120RWEEPROM
+	{
+		[default] dispinterface IACR120RWEEPROM;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};
